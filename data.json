@@ -1,0 +1,1808 @@
+{
+  "Dealer": [
+      {
+          "Date": "20171030",
+          "OpenInterest": -4335,
+          "OpenInterestDifference": 1216
+      },
+      {
+          "Date": "20171031",
+          "OpenInterest": -1666,
+          "OpenInterestDifference": 2669
+      },
+      {
+          "Date": "20171101",
+          "OpenInterest": -1640,
+          "OpenInterestDifference": 26
+      },
+      {
+          "Date": "20171102",
+          "OpenInterest": -1997,
+          "OpenInterestDifference": -357
+      },
+      {
+          "Date": "20171103",
+          "OpenInterest": -634,
+          "OpenInterestDifference": 1363
+      },
+      {
+          "Date": "20171106",
+          "OpenInterest": -28,
+          "OpenInterestDifference": 606
+      },
+      {
+          "Date": "20171107",
+          "OpenInterest": 1952,
+          "OpenInterestDifference": 1980
+      },
+      {
+          "Date": "20171108",
+          "OpenInterest": 2421,
+          "OpenInterestDifference": 469
+      },
+      {
+          "Date": "20171109",
+          "OpenInterest": 1319,
+          "OpenInterestDifference": -1102
+      },
+      {
+          "Date": "20171110",
+          "OpenInterest": 19,
+          "OpenInterestDifference": -1300
+      },
+      {
+          "Date": "20171113",
+          "OpenInterest": -757,
+          "OpenInterestDifference": -776
+      },
+      {
+          "Date": "20171114",
+          "OpenInterest": 2098,
+          "OpenInterestDifference": 2855
+      },
+      {
+          "Date": "20171115",
+          "OpenInterest": -781,
+          "OpenInterestDifference": -2879
+      },
+      {
+          "Date": "20171116",
+          "OpenInterest": -742,
+          "OpenInterestDifference": 39
+      },
+      {
+          "Date": "20171117",
+          "OpenInterest": -2009,
+          "OpenInterestDifference": -1267
+      },
+      {
+          "Date": "20171120",
+          "OpenInterest": -827,
+          "OpenInterestDifference": 1182
+      },
+      {
+          "Date": "20171121",
+          "OpenInterest": -186,
+          "OpenInterestDifference": 641
+      },
+      {
+          "Date": "20171122",
+          "OpenInterest": 455,
+          "OpenInterestDifference": 641
+      },
+      {
+          "Date": "20171123",
+          "OpenInterest": 1406,
+          "OpenInterestDifference": 951
+      },
+      {
+          "Date": "20171124",
+          "OpenInterest": 1915,
+          "OpenInterestDifference": 509
+      },
+      {
+          "Date": "20171127",
+          "OpenInterest": 811,
+          "OpenInterestDifference": -1104
+      },
+      {
+          "Date": "20171128",
+          "OpenInterest": -3019,
+          "OpenInterestDifference": -3830
+      },
+      {
+          "Date": "20171129",
+          "OpenInterest": -1367,
+          "OpenInterestDifference": 1652
+      },
+      {
+          "Date": "20171130",
+          "OpenInterest": -1378,
+          "OpenInterestDifference": -11
+      },
+      {
+          "Date": "20171201",
+          "OpenInterest": -1199,
+          "OpenInterestDifference": 179
+      },
+      {
+          "Date": "20171204",
+          "OpenInterest": -1235,
+          "OpenInterestDifference": -36
+      },
+      {
+          "Date": "20171205",
+          "OpenInterest": -1985,
+          "OpenInterestDifference": -750
+      },
+      {
+          "Date": "20171206",
+          "OpenInterest": -3515,
+          "OpenInterestDifference": -1530
+      },
+      {
+          "Date": "20171207",
+          "OpenInterest": -4215,
+          "OpenInterestDifference": -700
+      },
+      {
+          "Date": "20171208",
+          "OpenInterest": -3517,
+          "OpenInterestDifference": 698
+      },
+      {
+          "Date": "20171211",
+          "OpenInterest": -3884,
+          "OpenInterestDifference": -367
+      },
+      {
+          "Date": "20171212",
+          "OpenInterest": -3132,
+          "OpenInterestDifference": 752
+      },
+      {
+          "Date": "20171213",
+          "OpenInterest": -4822,
+          "OpenInterestDifference": -1690
+      },
+      {
+          "Date": "20171214",
+          "OpenInterest": -6193,
+          "OpenInterestDifference": -1371
+      },
+      {
+          "Date": "20171215",
+          "OpenInterest": -974,
+          "OpenInterestDifference": 5219
+      },
+      {
+          "Date": "20171218",
+          "OpenInterest": -534,
+          "OpenInterestDifference": 440
+      },
+      {
+          "Date": "20171219",
+          "OpenInterest": -3373,
+          "OpenInterestDifference": -2839
+      },
+      {
+          "Date": "20171220",
+          "OpenInterest": -4196,
+          "OpenInterestDifference": -823
+      },
+      {
+          "Date": "20171221",
+          "OpenInterest": -4320,
+          "OpenInterestDifference": -124
+      },
+      {
+          "Date": "20171222",
+          "OpenInterest": -4608,
+          "OpenInterestDifference": -288
+      },
+      {
+          "Date": "20171225",
+          "OpenInterest": -5217,
+          "OpenInterestDifference": -609
+      },
+      {
+          "Date": "20171226",
+          "OpenInterest": -6115,
+          "OpenInterestDifference": -898
+      },
+      {
+          "Date": "20171227",
+          "OpenInterest": -7086,
+          "OpenInterestDifference": -971
+      },
+      {
+          "Date": "20171228",
+          "OpenInterest": -6521,
+          "OpenInterestDifference": 565
+      },
+      {
+          "Date": "20171229",
+          "OpenInterest": -4538,
+          "OpenInterestDifference": 1983
+      },
+      {
+          "Date": "20180102",
+          "OpenInterest": -2886,
+          "OpenInterestDifference": 1652
+      },
+      {
+          "Date": "20180103",
+          "OpenInterest": -1837,
+          "OpenInterestDifference": 1049
+      },
+      {
+          "Date": "20180104",
+          "OpenInterest": -1312,
+          "OpenInterestDifference": 525
+      },
+      {
+          "Date": "20180105",
+          "OpenInterest": -1740,
+          "OpenInterestDifference": -428
+      },
+      {
+          "Date": "20180108",
+          "OpenInterest": 1041,
+          "OpenInterestDifference": 2781
+      },
+      {
+          "Date": "20180109",
+          "OpenInterest": -57,
+          "OpenInterestDifference": -1098
+      },
+      {
+          "Date": "20180110",
+          "OpenInterest": -4293,
+          "OpenInterestDifference": -4236
+      },
+      {
+          "Date": "20180111",
+          "OpenInterest": -3408,
+          "OpenInterestDifference": 885
+      },
+      {
+          "Date": "20180112",
+          "OpenInterest": -4690,
+          "OpenInterestDifference": -1282
+      },
+      {
+          "Date": "20180115",
+          "OpenInterest": 2,
+          "OpenInterestDifference": 4692
+      },
+      {
+          "Date": "20180116",
+          "OpenInterest": -681,
+          "OpenInterestDifference": -683
+      },
+      {
+          "Date": "20180117",
+          "OpenInterest": -5169,
+          "OpenInterestDifference": -4488
+      },
+      {
+          "Date": "20180118",
+          "OpenInterest": -5366,
+          "OpenInterestDifference": -197
+      },
+      {
+          "Date": "20180119",
+          "OpenInterest": -4343,
+          "OpenInterestDifference": 1023
+      },
+      {
+          "Date": "20180122",
+          "OpenInterest": 584,
+          "OpenInterestDifference": 4927
+      },
+      {
+          "Date": "20180123",
+          "OpenInterest": 2828,
+          "OpenInterestDifference": 2244
+      },
+      {
+          "Date": "20180124",
+          "OpenInterest": 789,
+          "OpenInterestDifference": -2039
+      },
+      {
+          "Date": "20180125",
+          "OpenInterest": -735,
+          "OpenInterestDifference": -1524
+      },
+      {
+          "Date": "20180126",
+          "OpenInterest": -2117,
+          "OpenInterestDifference": -1382
+      },
+      {
+          "Date": "20180129",
+          "OpenInterest": 1125,
+          "OpenInterestDifference": 3242
+      },
+      {
+          "Date": "20180130",
+          "OpenInterest": -1780,
+          "OpenInterestDifference": -2905
+      },
+      {
+          "Date": "20180131",
+          "OpenInterest": -3153,
+          "OpenInterestDifference": -1373
+      },
+      {
+          "Date": "20180201",
+          "OpenInterest": -1950,
+          "OpenInterestDifference": 1203
+      },
+      {
+          "Date": "20180202",
+          "OpenInterest": -877,
+          "OpenInterestDifference": 1073
+      },
+      {
+          "Date": "20180205",
+          "OpenInterest": -975,
+          "OpenInterestDifference": -98
+      },
+      {
+          "Date": "20180206",
+          "OpenInterest": -7368,
+          "OpenInterestDifference": -6393
+      },
+      {
+          "Date": "20180207",
+          "OpenInterest": -6468,
+          "OpenInterestDifference": 900
+      },
+      {
+          "Date": "20180208",
+          "OpenInterest": -6118,
+          "OpenInterestDifference": 350
+      },
+      {
+          "Date": "20180209",
+          "OpenInterest": -3459,
+          "OpenInterestDifference": 2659
+      },
+      {
+          "Date": "20180212",
+          "OpenInterest": -2392,
+          "OpenInterestDifference": 1067
+      },
+      {
+          "Date": "20180221",
+          "OpenInterest": -3689,
+          "OpenInterestDifference": -1297
+      },
+      {
+          "Date": "20180222",
+          "OpenInterest": -3366,
+          "OpenInterestDifference": 323
+      },
+      {
+          "Date": "20180223",
+          "OpenInterest": -3891,
+          "OpenInterestDifference": -525
+      },
+      {
+          "Date": "20180226",
+          "OpenInterest": -2924,
+          "OpenInterestDifference": 967
+      },
+      {
+          "Date": "20180227",
+          "OpenInterest": -4231,
+          "OpenInterestDifference": -1307
+      },
+      {
+          "Date": "20180301",
+          "OpenInterest": -4524,
+          "OpenInterestDifference": -293
+      },
+      {
+          "Date": "20180302",
+          "OpenInterest": -4811,
+          "OpenInterestDifference": -287
+      },
+      {
+          "Date": "20180305",
+          "OpenInterest": -4622,
+          "OpenInterestDifference": 189
+      },
+      {
+          "Date": "20180306",
+          "OpenInterest": -3567,
+          "OpenInterestDifference": 1055
+      },
+      {
+          "Date": "20180307",
+          "OpenInterest": -4503,
+          "OpenInterestDifference": -936
+      },
+      {
+          "Date": "20180308",
+          "OpenInterest": -3576,
+          "OpenInterestDifference": 927
+      },
+      {
+          "Date": "20180309",
+          "OpenInterest": -4340,
+          "OpenInterestDifference": -764
+      },
+      {
+          "Date": "20180312",
+          "OpenInterest": -3764,
+          "OpenInterestDifference": 576
+      },
+      {
+          "Date": "20180313",
+          "OpenInterest": -2315,
+          "OpenInterestDifference": 1449
+      },
+      {
+          "Date": "20180314",
+          "OpenInterest": -2490,
+          "OpenInterestDifference": -175
+      },
+      {
+          "Date": "20180315",
+          "OpenInterest": -3358,
+          "OpenInterestDifference": -868
+      },
+      {
+          "Date": "20180316",
+          "OpenInterest": -570,
+          "OpenInterestDifference": 2788
+      },
+      {
+          "Date": "20180319",
+          "OpenInterest": -1914,
+          "OpenInterestDifference": -1344
+      },
+      {
+          "Date": "20180320",
+          "OpenInterest": -1517,
+          "OpenInterestDifference": 397
+      },
+      {
+          "Date": "20180321",
+          "OpenInterest": -5633,
+          "OpenInterestDifference": -4116
+      },
+      {
+          "Date": "20180322",
+          "OpenInterest": -5876,
+          "OpenInterestDifference": -243
+      },
+      {
+          "Date": "20180323",
+          "OpenInterest": -6437,
+          "OpenInterestDifference": -561
+      },
+      {
+          "Date": "20180326",
+          "OpenInterest": -5420,
+          "OpenInterestDifference": 1017
+      },
+      {
+          "Date": "20180327",
+          "OpenInterest": -5562,
+          "OpenInterestDifference": -142
+      },
+      {
+          "Date": "20180328",
+          "OpenInterest": -6782,
+          "OpenInterestDifference": -1220
+      },
+      {
+          "Date": "20180329",
+          "OpenInterest": -6310,
+          "OpenInterestDifference": 472
+      },
+      {
+          "Date": "20180330",
+          "OpenInterest": -7666,
+          "OpenInterestDifference": -1356
+      },
+      {
+          "Date": "20180331",
+          "OpenInterest": -8533,
+          "OpenInterestDifference": -867
+      },
+      {
+          "Date": "20180402",
+          "OpenInterest": -8443,
+          "OpenInterestDifference": 90
+      },
+      {
+          "Date": "20180403",
+          "OpenInterest": -8171,
+          "OpenInterestDifference": 272
+      },
+      {
+          "Date": "20180409",
+          "OpenInterest": -6263,
+          "OpenInterestDifference": 1908
+      },
+      {
+          "Date": "20180410",
+          "OpenInterest": -7775,
+          "OpenInterestDifference": -1512
+      },
+      {
+          "Date": "20180411",
+          "OpenInterest": -5256,
+          "OpenInterestDifference": 2519
+      },
+      {
+          "Date": "20180412",
+          "OpenInterest": -3164,
+          "OpenInterestDifference": 2092
+      },
+      {
+          "Date": "20180413",
+          "OpenInterest": -2980,
+          "OpenInterestDifference": 184
+      },
+      {
+          "Date": "20180416",
+          "OpenInterest": -2612,
+          "OpenInterestDifference": 368
+      },
+      {
+          "Date": "20180417",
+          "OpenInterest": -5067,
+          "OpenInterestDifference": -2455
+      },
+      {
+          "Date": "20180418",
+          "OpenInterest": -3581,
+          "OpenInterestDifference": 1486
+      },
+      {
+          "Date": "20180419",
+          "OpenInterest": -4047,
+          "OpenInterestDifference": -466
+      },
+      {
+          "Date": "20180420",
+          "OpenInterest": -7025,
+          "OpenInterestDifference": -2978
+      },
+      {
+          "Date": "20180423",
+          "OpenInterest": -6109,
+          "OpenInterestDifference": 916
+      },
+      {
+          "Date": "20180424",
+          "OpenInterest": -6388,
+          "OpenInterestDifference": -279
+      },
+      {
+          "Date": "20180425",
+          "OpenInterest": -2464,
+          "OpenInterestDifference": 3924
+      },
+      {
+          "Date": "20180426",
+          "OpenInterest": -4860,
+          "OpenInterestDifference": -2396
+      },
+      {
+          "Date": "20180427",
+          "OpenInterest": -5200,
+          "OpenInterestDifference": -340
+      }
+  ],
+  "InvestmentTrust": [
+      {
+          "Date": "20171030",
+          "OpenInterest": -29891,
+          "OpenInterestDifference": 1119
+      },
+      {
+          "Date": "20171031",
+          "OpenInterest": -30025,
+          "OpenInterestDifference": -134
+      },
+      {
+          "Date": "20171101",
+          "OpenInterest": -29664,
+          "OpenInterestDifference": 361
+      },
+      {
+          "Date": "20171102",
+          "OpenInterest": -29801,
+          "OpenInterestDifference": -137
+      },
+      {
+          "Date": "20171103",
+          "OpenInterest": -30145,
+          "OpenInterestDifference": -344
+      },
+      {
+          "Date": "20171106",
+          "OpenInterest": -29608,
+          "OpenInterestDifference": 537
+      },
+      {
+          "Date": "20171107",
+          "OpenInterest": -29217,
+          "OpenInterestDifference": 391
+      },
+      {
+          "Date": "20171108",
+          "OpenInterest": -29220,
+          "OpenInterestDifference": -3
+      },
+      {
+          "Date": "20171109",
+          "OpenInterest": -30185,
+          "OpenInterestDifference": -965
+      },
+      {
+          "Date": "20171110",
+          "OpenInterest": -30225,
+          "OpenInterestDifference": -40
+      },
+      {
+          "Date": "20171113",
+          "OpenInterest": -30533,
+          "OpenInterestDifference": -308
+      },
+      {
+          "Date": "20171114",
+          "OpenInterest": -30080,
+          "OpenInterestDifference": 453
+      },
+      {
+          "Date": "20171115",
+          "OpenInterest": -30781,
+          "OpenInterestDifference": -701
+      },
+      {
+          "Date": "20171116",
+          "OpenInterest": -30762,
+          "OpenInterestDifference": 19
+      },
+      {
+          "Date": "20171117",
+          "OpenInterest": -30602,
+          "OpenInterestDifference": 160
+      },
+      {
+          "Date": "20171120",
+          "OpenInterest": -31272,
+          "OpenInterestDifference": -670
+      },
+      {
+          "Date": "20171121",
+          "OpenInterest": -30447,
+          "OpenInterestDifference": 825
+      },
+      {
+          "Date": "20171122",
+          "OpenInterest": -31249,
+          "OpenInterestDifference": -802
+      },
+      {
+          "Date": "20171123",
+          "OpenInterest": -31153,
+          "OpenInterestDifference": 96
+      },
+      {
+          "Date": "20171124",
+          "OpenInterest": -32086,
+          "OpenInterestDifference": -933
+      },
+      {
+          "Date": "20171127",
+          "OpenInterest": -33294,
+          "OpenInterestDifference": -1208
+      },
+      {
+          "Date": "20171128",
+          "OpenInterest": -33368,
+          "OpenInterestDifference": -74
+      },
+      {
+          "Date": "20171129",
+          "OpenInterest": -33162,
+          "OpenInterestDifference": 206
+      },
+      {
+          "Date": "20171130",
+          "OpenInterest": -33694,
+          "OpenInterestDifference": -532
+      },
+      {
+          "Date": "20171201",
+          "OpenInterest": -33212,
+          "OpenInterestDifference": 482
+      },
+      {
+          "Date": "20171204",
+          "OpenInterest": -33048,
+          "OpenInterestDifference": 164
+      },
+      {
+          "Date": "20171205",
+          "OpenInterest": -33372,
+          "OpenInterestDifference": -324
+      },
+      {
+          "Date": "20171206",
+          "OpenInterest": -34453,
+          "OpenInterestDifference": -1081
+      },
+      {
+          "Date": "20171207",
+          "OpenInterest": -33880,
+          "OpenInterestDifference": 573
+      },
+      {
+          "Date": "20171208",
+          "OpenInterest": -33203,
+          "OpenInterestDifference": 677
+      },
+      {
+          "Date": "20171211",
+          "OpenInterest": -32155,
+          "OpenInterestDifference": 1048
+      },
+      {
+          "Date": "20171212",
+          "OpenInterest": -32611,
+          "OpenInterestDifference": -456
+      },
+      {
+          "Date": "20171213",
+          "OpenInterest": -32323,
+          "OpenInterestDifference": 288
+      },
+      {
+          "Date": "20171214",
+          "OpenInterest": -32006,
+          "OpenInterestDifference": 317
+      },
+      {
+          "Date": "20171215",
+          "OpenInterest": -33223,
+          "OpenInterestDifference": -1217
+      },
+      {
+          "Date": "20171218",
+          "OpenInterest": -32833,
+          "OpenInterestDifference": 390
+      },
+      {
+          "Date": "20171219",
+          "OpenInterest": -32882,
+          "OpenInterestDifference": -49
+      },
+      {
+          "Date": "20171220",
+          "OpenInterest": -33451,
+          "OpenInterestDifference": -569
+      },
+      {
+          "Date": "20171221",
+          "OpenInterest": -33755,
+          "OpenInterestDifference": -304
+      },
+      {
+          "Date": "20171222",
+          "OpenInterest": -33109,
+          "OpenInterestDifference": 646
+      },
+      {
+          "Date": "20171225",
+          "OpenInterest": -33235,
+          "OpenInterestDifference": -126
+      },
+      {
+          "Date": "20171226",
+          "OpenInterest": -34764,
+          "OpenInterestDifference": -1529
+      },
+      {
+          "Date": "20171227",
+          "OpenInterest": -35116,
+          "OpenInterestDifference": -352
+      },
+      {
+          "Date": "20171228",
+          "OpenInterest": -34619,
+          "OpenInterestDifference": 497
+      },
+      {
+          "Date": "20171229",
+          "OpenInterest": -33375,
+          "OpenInterestDifference": 1244
+      },
+      {
+          "Date": "20180102",
+          "OpenInterest": -33666,
+          "OpenInterestDifference": -291
+      },
+      {
+          "Date": "20180103",
+          "OpenInterest": -33598,
+          "OpenInterestDifference": 68
+      },
+      {
+          "Date": "20180104",
+          "OpenInterest": -33599,
+          "OpenInterestDifference": -1
+      },
+      {
+          "Date": "20180105",
+          "OpenInterest": -33657,
+          "OpenInterestDifference": -58
+      },
+      {
+          "Date": "20180108",
+          "OpenInterest": -33728,
+          "OpenInterestDifference": -71
+      },
+      {
+          "Date": "20180109",
+          "OpenInterest": -33664,
+          "OpenInterestDifference": 64
+      },
+      {
+          "Date": "20180110",
+          "OpenInterest": -33353,
+          "OpenInterestDifference": 311
+      },
+      {
+          "Date": "20180111",
+          "OpenInterest": -32902,
+          "OpenInterestDifference": 451
+      },
+      {
+          "Date": "20180112",
+          "OpenInterest": -31731,
+          "OpenInterestDifference": 1171
+      },
+      {
+          "Date": "20180115",
+          "OpenInterest": -30910,
+          "OpenInterestDifference": 821
+      },
+      {
+          "Date": "20180116",
+          "OpenInterest": -30877,
+          "OpenInterestDifference": 33
+      },
+      {
+          "Date": "20180117",
+          "OpenInterest": -30346,
+          "OpenInterestDifference": 531
+      },
+      {
+          "Date": "20180118",
+          "OpenInterest": -27841,
+          "OpenInterestDifference": 2505
+      },
+      {
+          "Date": "20180119",
+          "OpenInterest": -28262,
+          "OpenInterestDifference": -421
+      },
+      {
+          "Date": "20180122",
+          "OpenInterest": -28672,
+          "OpenInterestDifference": -410
+      },
+      {
+          "Date": "20180123",
+          "OpenInterest": -30787,
+          "OpenInterestDifference": -2115
+      },
+      {
+          "Date": "20180124",
+          "OpenInterest": -33135,
+          "OpenInterestDifference": -2348
+      },
+      {
+          "Date": "20180125",
+          "OpenInterest": -34311,
+          "OpenInterestDifference": -1176
+      },
+      {
+          "Date": "20180126",
+          "OpenInterest": -35289,
+          "OpenInterestDifference": -978
+      },
+      {
+          "Date": "20180129",
+          "OpenInterest": -35247,
+          "OpenInterestDifference": 42
+      },
+      {
+          "Date": "20180130",
+          "OpenInterest": -35924,
+          "OpenInterestDifference": -677
+      },
+      {
+          "Date": "20180131",
+          "OpenInterest": -35801,
+          "OpenInterestDifference": 123
+      },
+      {
+          "Date": "20180201",
+          "OpenInterest": -35344,
+          "OpenInterestDifference": 457
+      },
+      {
+          "Date": "20180202",
+          "OpenInterest": -35597,
+          "OpenInterestDifference": -253
+      },
+      {
+          "Date": "20180205",
+          "OpenInterest": -35946,
+          "OpenInterestDifference": -349
+      },
+      {
+          "Date": "20180206",
+          "OpenInterest": -38734,
+          "OpenInterestDifference": -2788
+      },
+      {
+          "Date": "20180207",
+          "OpenInterest": -37027,
+          "OpenInterestDifference": 1707
+      },
+      {
+          "Date": "20180208",
+          "OpenInterest": -37055,
+          "OpenInterestDifference": -28
+      },
+      {
+          "Date": "20180209",
+          "OpenInterest": -37884,
+          "OpenInterestDifference": -829
+      },
+      {
+          "Date": "20180212",
+          "OpenInterest": -36895,
+          "OpenInterestDifference": 989
+      },
+      {
+          "Date": "20180221",
+          "OpenInterest": -34230,
+          "OpenInterestDifference": 2665
+      },
+      {
+          "Date": "20180222",
+          "OpenInterest": -34606,
+          "OpenInterestDifference": -376
+      },
+      {
+          "Date": "20180223",
+          "OpenInterest": -33173,
+          "OpenInterestDifference": 1433
+      },
+      {
+          "Date": "20180226",
+          "OpenInterest": -32608,
+          "OpenInterestDifference": 565
+      },
+      {
+          "Date": "20180227",
+          "OpenInterest": -32535,
+          "OpenInterestDifference": 73
+      },
+      {
+          "Date": "20180301",
+          "OpenInterest": -33193,
+          "OpenInterestDifference": -658
+      },
+      {
+          "Date": "20180302",
+          "OpenInterest": -33973,
+          "OpenInterestDifference": -780
+      },
+      {
+          "Date": "20180305",
+          "OpenInterest": -34328,
+          "OpenInterestDifference": -355
+      },
+      {
+          "Date": "20180306",
+          "OpenInterest": -33397,
+          "OpenInterestDifference": 931
+      },
+      {
+          "Date": "20180307",
+          "OpenInterest": -33482,
+          "OpenInterestDifference": -85
+      },
+      {
+          "Date": "20180308",
+          "OpenInterest": -32966,
+          "OpenInterestDifference": 516
+      },
+      {
+          "Date": "20180309",
+          "OpenInterest": -31988,
+          "OpenInterestDifference": 978
+      },
+      {
+          "Date": "20180312",
+          "OpenInterest": -30469,
+          "OpenInterestDifference": 1519
+      },
+      {
+          "Date": "20180313",
+          "OpenInterest": -29680,
+          "OpenInterestDifference": 789
+      },
+      {
+          "Date": "20180314",
+          "OpenInterest": -29696,
+          "OpenInterestDifference": -16
+      },
+      {
+          "Date": "20180315",
+          "OpenInterest": -29745,
+          "OpenInterestDifference": -49
+      },
+      {
+          "Date": "20180316",
+          "OpenInterest": -29964,
+          "OpenInterestDifference": -219
+      },
+      {
+          "Date": "20180319",
+          "OpenInterest": -30353,
+          "OpenInterestDifference": -389
+      },
+      {
+          "Date": "20180320",
+          "OpenInterest": -30400,
+          "OpenInterestDifference": -47
+      },
+      {
+          "Date": "20180321",
+          "OpenInterest": -30266,
+          "OpenInterestDifference": 134
+      },
+      {
+          "Date": "20180322",
+          "OpenInterest": -31087,
+          "OpenInterestDifference": -821
+      },
+      {
+          "Date": "20180323",
+          "OpenInterest": -32506,
+          "OpenInterestDifference": -1419
+      },
+      {
+          "Date": "20180326",
+          "OpenInterest": -32752,
+          "OpenInterestDifference": -246
+      },
+      {
+          "Date": "20180327",
+          "OpenInterest": -31903,
+          "OpenInterestDifference": 849
+      },
+      {
+          "Date": "20180328",
+          "OpenInterest": -32665,
+          "OpenInterestDifference": -762
+      },
+      {
+          "Date": "20180329",
+          "OpenInterest": -32687,
+          "OpenInterestDifference": -22
+      },
+      {
+          "Date": "20180330",
+          "OpenInterest": -32177,
+          "OpenInterestDifference": 510
+      },
+      {
+          "Date": "20180331",
+          "OpenInterest": -32148,
+          "OpenInterestDifference": 29
+      },
+      {
+          "Date": "20180402",
+          "OpenInterest": -32429,
+          "OpenInterestDifference": -281
+      },
+      {
+          "Date": "20180403",
+          "OpenInterest": -33057,
+          "OpenInterestDifference": -628
+      },
+      {
+          "Date": "20180409",
+          "OpenInterest": -31685,
+          "OpenInterestDifference": 1372
+      },
+      {
+          "Date": "20180410",
+          "OpenInterest": -30225,
+          "OpenInterestDifference": 1460
+      },
+      {
+          "Date": "20180411",
+          "OpenInterest": -29386,
+          "OpenInterestDifference": 839
+      },
+      {
+          "Date": "20180412",
+          "OpenInterest": -28562,
+          "OpenInterestDifference": 824
+      },
+      {
+          "Date": "20180413",
+          "OpenInterest": -27342,
+          "OpenInterestDifference": 1220
+      },
+      {
+          "Date": "20180416",
+          "OpenInterest": -27025,
+          "OpenInterestDifference": 317
+      },
+      {
+          "Date": "20180417",
+          "OpenInterest": -27952,
+          "OpenInterestDifference": -927
+      },
+      {
+          "Date": "20180418",
+          "OpenInterest": -27962,
+          "OpenInterestDifference": -10
+      },
+      {
+          "Date": "20180419",
+          "OpenInterest": -26974,
+          "OpenInterestDifference": 988
+      },
+      {
+          "Date": "20180420",
+          "OpenInterest": -27853,
+          "OpenInterestDifference": -879
+      },
+      {
+          "Date": "20180423",
+          "OpenInterest": -28094,
+          "OpenInterestDifference": -241
+      },
+      {
+          "Date": "20180424",
+          "OpenInterest": -28146,
+          "OpenInterestDifference": -52
+      },
+      {
+          "Date": "20180425",
+          "OpenInterest": -27685,
+          "OpenInterestDifference": 461
+      },
+      {
+          "Date": "20180426",
+          "OpenInterest": -27188,
+          "OpenInterestDifference": 497
+      },
+      {
+          "Date": "20180427",
+          "OpenInterest": -26752,
+          "OpenInterestDifference": 436
+      }
+  ],
+  "ForeignInvestors": [
+      {
+          "Date": "20171030",
+          "OpenInterest": 55424,
+          "OpenInterestDifference": 2377
+      },
+      {
+          "Date": "20171031",
+          "OpenInterest": 54249,
+          "OpenInterestDifference": -1175
+      },
+      {
+          "Date": "20171101",
+          "OpenInterest": 50792,
+          "OpenInterestDifference": -3457
+      },
+      {
+          "Date": "20171102",
+          "OpenInterest": 50946,
+          "OpenInterestDifference": 154
+      },
+      {
+          "Date": "20171103",
+          "OpenInterest": 48649,
+          "OpenInterestDifference": -2297
+      },
+      {
+          "Date": "20171106",
+          "OpenInterest": 46919,
+          "OpenInterestDifference": -1730
+      },
+      {
+          "Date": "20171107",
+          "OpenInterest": 49665,
+          "OpenInterestDifference": 2746
+      },
+      {
+          "Date": "20171108",
+          "OpenInterest": 46642,
+          "OpenInterestDifference": -3023
+      },
+      {
+          "Date": "20171109",
+          "OpenInterest": 44498,
+          "OpenInterestDifference": -2144
+      },
+      {
+          "Date": "20171110",
+          "OpenInterest": 46346,
+          "OpenInterestDifference": 1848
+      },
+      {
+          "Date": "20171113",
+          "OpenInterest": 46968,
+          "OpenInterestDifference": 622
+      },
+      {
+          "Date": "20171114",
+          "OpenInterest": 44412,
+          "OpenInterestDifference": -2556
+      },
+      {
+          "Date": "20171115",
+          "OpenInterest": 38395,
+          "OpenInterestDifference": -6017
+      },
+      {
+          "Date": "20171116",
+          "OpenInterest": 39596,
+          "OpenInterestDifference": 1201
+      },
+      {
+          "Date": "20171117",
+          "OpenInterest": 47274,
+          "OpenInterestDifference": 7678
+      },
+      {
+          "Date": "20171120",
+          "OpenInterest": 43336,
+          "OpenInterestDifference": -3938
+      },
+      {
+          "Date": "20171121",
+          "OpenInterest": 45079,
+          "OpenInterestDifference": 1743
+      },
+      {
+          "Date": "20171122",
+          "OpenInterest": 47559,
+          "OpenInterestDifference": 2480
+      },
+      {
+          "Date": "20171123",
+          "OpenInterest": 47189,
+          "OpenInterestDifference": -370
+      },
+      {
+          "Date": "20171124",
+          "OpenInterest": 46909,
+          "OpenInterestDifference": -280
+      },
+      {
+          "Date": "20171127",
+          "OpenInterest": 42452,
+          "OpenInterestDifference": -4457
+      },
+      {
+          "Date": "20171128",
+          "OpenInterest": 42299,
+          "OpenInterestDifference": -153
+      },
+      {
+          "Date": "20171129",
+          "OpenInterest": 42114,
+          "OpenInterestDifference": -185
+      },
+      {
+          "Date": "20171130",
+          "OpenInterest": 37178,
+          "OpenInterestDifference": -4936
+      },
+      {
+          "Date": "20171201",
+          "OpenInterest": 39801,
+          "OpenInterestDifference": 2623
+      },
+      {
+          "Date": "20171204",
+          "OpenInterest": 40521,
+          "OpenInterestDifference": 720
+      },
+      {
+          "Date": "20171205",
+          "OpenInterest": 40346,
+          "OpenInterestDifference": -175
+      },
+      {
+          "Date": "20171206",
+          "OpenInterest": 40150,
+          "OpenInterestDifference": -196
+      },
+      {
+          "Date": "20171207",
+          "OpenInterest": 39222,
+          "OpenInterestDifference": -928
+      },
+      {
+          "Date": "20171208",
+          "OpenInterest": 36618,
+          "OpenInterestDifference": -2604
+      },
+      {
+          "Date": "20171211",
+          "OpenInterest": 38905,
+          "OpenInterestDifference": 2287
+      },
+      {
+          "Date": "20171212",
+          "OpenInterest": 39279,
+          "OpenInterestDifference": 374
+      },
+      {
+          "Date": "20171213",
+          "OpenInterest": 41694,
+          "OpenInterestDifference": 2415
+      },
+      {
+          "Date": "20171214",
+          "OpenInterest": 44956,
+          "OpenInterestDifference": 3262
+      },
+      {
+          "Date": "20171215",
+          "OpenInterest": 39747,
+          "OpenInterestDifference": -5209
+      },
+      {
+          "Date": "20171218",
+          "OpenInterest": 38194,
+          "OpenInterestDifference": -1553
+      },
+      {
+          "Date": "20171219",
+          "OpenInterest": 42655,
+          "OpenInterestDifference": 4461
+      },
+      {
+          "Date": "20171220",
+          "OpenInterest": 45582,
+          "OpenInterestDifference": 2927
+      },
+      {
+          "Date": "20171221",
+          "OpenInterest": 43574,
+          "OpenInterestDifference": -2008
+      },
+      {
+          "Date": "20171222",
+          "OpenInterest": 45169,
+          "OpenInterestDifference": 1595
+      },
+      {
+          "Date": "20171225",
+          "OpenInterest": 45550,
+          "OpenInterestDifference": 381
+      },
+      {
+          "Date": "20171226",
+          "OpenInterest": 43423,
+          "OpenInterestDifference": -2127
+      },
+      {
+          "Date": "20171227",
+          "OpenInterest": 48815,
+          "OpenInterestDifference": 5392
+      },
+      {
+          "Date": "20171228",
+          "OpenInterest": 51327,
+          "OpenInterestDifference": 2512
+      },
+      {
+          "Date": "20171229",
+          "OpenInterest": 48739,
+          "OpenInterestDifference": -2588
+      },
+      {
+          "Date": "20180102",
+          "OpenInterest": 52142,
+          "OpenInterestDifference": 3403
+      },
+      {
+          "Date": "20180103",
+          "OpenInterest": 50931,
+          "OpenInterestDifference": -1211
+      },
+      {
+          "Date": "20180104",
+          "OpenInterest": 51919,
+          "OpenInterestDifference": 988
+      },
+      {
+          "Date": "20180105",
+          "OpenInterest": 51706,
+          "OpenInterestDifference": -213
+      },
+      {
+          "Date": "20180108",
+          "OpenInterest": 49674,
+          "OpenInterestDifference": -2032
+      },
+      {
+          "Date": "20180109",
+          "OpenInterest": 53313,
+          "OpenInterestDifference": 3639
+      },
+      {
+          "Date": "20180110",
+          "OpenInterest": 53725,
+          "OpenInterestDifference": 412
+      },
+      {
+          "Date": "20180111",
+          "OpenInterest": 52468,
+          "OpenInterestDifference": -1257
+      },
+      {
+          "Date": "20180112",
+          "OpenInterest": 55077,
+          "OpenInterestDifference": 2609
+      },
+      {
+          "Date": "20180115",
+          "OpenInterest": 50994,
+          "OpenInterestDifference": -4083
+      },
+      {
+          "Date": "20180116",
+          "OpenInterest": 48364,
+          "OpenInterestDifference": -2630
+      },
+      {
+          "Date": "20180117",
+          "OpenInterest": 52417,
+          "OpenInterestDifference": 4053
+      },
+      {
+          "Date": "20180118",
+          "OpenInterest": 48666,
+          "OpenInterestDifference": -3751
+      },
+      {
+          "Date": "20180119",
+          "OpenInterest": 49412,
+          "OpenInterestDifference": 746
+      },
+      {
+          "Date": "20180122",
+          "OpenInterest": 42269,
+          "OpenInterestDifference": -7143
+      },
+      {
+          "Date": "20180123",
+          "OpenInterest": 38665,
+          "OpenInterestDifference": -3604
+      },
+      {
+          "Date": "20180124",
+          "OpenInterest": 41562,
+          "OpenInterestDifference": 2897
+      },
+      {
+          "Date": "20180125",
+          "OpenInterest": 46835,
+          "OpenInterestDifference": 5273
+      },
+      {
+          "Date": "20180126",
+          "OpenInterest": 46788,
+          "OpenInterestDifference": -47
+      },
+      {
+          "Date": "20180129",
+          "OpenInterest": 44176,
+          "OpenInterestDifference": -2612
+      },
+      {
+          "Date": "20180130",
+          "OpenInterest": 48316,
+          "OpenInterestDifference": 4140
+      },
+      {
+          "Date": "20180131",
+          "OpenInterest": 49683,
+          "OpenInterestDifference": 1367
+      },
+      {
+          "Date": "20180201",
+          "OpenInterest": 47947,
+          "OpenInterestDifference": -1736
+      },
+      {
+          "Date": "20180202",
+          "OpenInterest": 44044,
+          "OpenInterestDifference": -3903
+      },
+      {
+          "Date": "20180205",
+          "OpenInterest": 40149,
+          "OpenInterestDifference": -3895
+      },
+      {
+          "Date": "20180206",
+          "OpenInterest": 43071,
+          "OpenInterestDifference": 2922
+      },
+      {
+          "Date": "20180207",
+          "OpenInterest": 48188,
+          "OpenInterestDifference": 5117
+      },
+      {
+          "Date": "20180208",
+          "OpenInterest": 45939,
+          "OpenInterestDifference": -2249
+      },
+      {
+          "Date": "20180209",
+          "OpenInterest": 42564,
+          "OpenInterestDifference": -3375
+      },
+      {
+          "Date": "20180212",
+          "OpenInterest": 42641,
+          "OpenInterestDifference": 77
+      },
+      {
+          "Date": "20180221",
+          "OpenInterest": 47776,
+          "OpenInterestDifference": 5135
+      },
+      {
+          "Date": "20180222",
+          "OpenInterest": 42893,
+          "OpenInterestDifference": -4883
+      },
+      {
+          "Date": "20180223",
+          "OpenInterest": 47984,
+          "OpenInterestDifference": 5091
+      },
+      {
+          "Date": "20180226",
+          "OpenInterest": 44048,
+          "OpenInterestDifference": -3936
+      },
+      {
+          "Date": "20180227",
+          "OpenInterest": 45222,
+          "OpenInterestDifference": 1174
+      },
+      {
+          "Date": "20180301",
+          "OpenInterest": 45256,
+          "OpenInterestDifference": 34
+      },
+      {
+          "Date": "20180302",
+          "OpenInterest": 45748,
+          "OpenInterestDifference": 492
+      },
+      {
+          "Date": "20180305",
+          "OpenInterest": 45149,
+          "OpenInterestDifference": -599
+      },
+      {
+          "Date": "20180306",
+          "OpenInterest": 47774,
+          "OpenInterestDifference": 2625
+      },
+      {
+          "Date": "20180307",
+          "OpenInterest": 46274,
+          "OpenInterestDifference": -1500
+      },
+      {
+          "Date": "20180308",
+          "OpenInterest": 49664,
+          "OpenInterestDifference": 3390
+      },
+      {
+          "Date": "20180309",
+          "OpenInterest": 48919,
+          "OpenInterestDifference": -745
+      },
+      {
+          "Date": "20180312",
+          "OpenInterest": 51104,
+          "OpenInterestDifference": 2185
+      },
+      {
+          "Date": "20180313",
+          "OpenInterest": 50013,
+          "OpenInterestDifference": -1091
+      },
+      {
+          "Date": "20180314",
+          "OpenInterest": 47943,
+          "OpenInterestDifference": -2070
+      },
+      {
+          "Date": "20180315",
+          "OpenInterest": 48460,
+          "OpenInterestDifference": 517
+      },
+      {
+          "Date": "20180316",
+          "OpenInterest": 41721,
+          "OpenInterestDifference": -6739
+      },
+      {
+          "Date": "20180319",
+          "OpenInterest": 43891,
+          "OpenInterestDifference": 2170
+      },
+      {
+          "Date": "20180320",
+          "OpenInterest": 44253,
+          "OpenInterestDifference": 362
+      },
+      {
+          "Date": "20180321",
+          "OpenInterest": 44430,
+          "OpenInterestDifference": 177
+      },
+      {
+          "Date": "20180322",
+          "OpenInterest": 45537,
+          "OpenInterestDifference": 1107
+      },
+      {
+          "Date": "20180323",
+          "OpenInterest": 45385,
+          "OpenInterestDifference": -152
+      },
+      {
+          "Date": "20180326",
+          "OpenInterest": 48813,
+          "OpenInterestDifference": 3428
+      },
+      {
+          "Date": "20180327",
+          "OpenInterest": 46920,
+          "OpenInterestDifference": -1893
+      },
+      {
+          "Date": "20180328",
+          "OpenInterest": 43066,
+          "OpenInterestDifference": -3854
+      },
+      {
+          "Date": "20180329",
+          "OpenInterest": 43526,
+          "OpenInterestDifference": 460
+      },
+      {
+          "Date": "20180330",
+          "OpenInterest": 48767,
+          "OpenInterestDifference": 5241
+      },
+      {
+          "Date": "20180331",
+          "OpenInterest": 48786,
+          "OpenInterestDifference": 19
+      },
+      {
+          "Date": "20180402",
+          "OpenInterest": 49141,
+          "OpenInterestDifference": 355
+      },
+      {
+          "Date": "20180403",
+          "OpenInterest": 47464,
+          "OpenInterestDifference": -1677
+      },
+      {
+          "Date": "20180409",
+          "OpenInterest": 50160,
+          "OpenInterestDifference": 2696
+      },
+      {
+          "Date": "20180410",
+          "OpenInterest": 49951,
+          "OpenInterestDifference": -209
+      },
+      {
+          "Date": "20180411",
+          "OpenInterest": 48604,
+          "OpenInterestDifference": -1347
+      },
+      {
+          "Date": "20180412",
+          "OpenInterest": 41572,
+          "OpenInterestDifference": -7032
+      },
+      {
+          "Date": "20180413",
+          "OpenInterest": 43418,
+          "OpenInterestDifference": 1846
+      },
+      {
+          "Date": "20180416",
+          "OpenInterest": 41335,
+          "OpenInterestDifference": -2083
+      },
+      {
+          "Date": "20180417",
+          "OpenInterest": 36713,
+          "OpenInterestDifference": -4622
+      },
+      {
+          "Date": "20180418",
+          "OpenInterest": 39898,
+          "OpenInterestDifference": 3185
+      },
+      {
+          "Date": "20180419",
+          "OpenInterest": 50162,
+          "OpenInterestDifference": 10264
+      },
+      {
+          "Date": "20180420",
+          "OpenInterest": 31033,
+          "OpenInterestDifference": -19129
+      },
+      {
+          "Date": "20180423",
+          "OpenInterest": 29992,
+          "OpenInterestDifference": -1041
+      },
+      {
+          "Date": "20180424",
+          "OpenInterest": 28798,
+          "OpenInterestDifference": -1194
+      },
+      {
+          "Date": "20180425",
+          "OpenInterest": 28994,
+          "OpenInterestDifference": 196
+      },
+      {
+          "Date": "20180426",
+          "OpenInterest": 28344,
+          "OpenInterestDifference": -650
+      },
+      {
+          "Date": "20180427",
+          "OpenInterest": 32426,
+          "OpenInterestDifference": 4082
+      }
+  ]
+}
